@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1458311099 source:c:\users\pawel\documents\c++\ks_telef\ks_telef\adres.cpp
+	<iostream>
+	"Adres.h"
+
+1458311099 c:\users\pawel\documents\c++\ks_telef\ks_telef\adres.h
+
+1458308515 source:c:\users\pawel\documents\c++\ks_telef\ks_telef\data.cpp
+	<iostream>
+	"Data.h"
+
+1458310110 c:\users\pawel\documents\c++\ks_telef\ks_telef\data.h
+
+1458309995 source:c:\users\pawel\documents\c++\ks_telef\ks_telef\main.cpp
+	<iostream>
+	"Adres.h"
+	"Data.h"
+	"Osoba.h"
+
+1458311192 c:\users\pawel\documents\c++\ks_telef\ks_telef\osoba.h
+	<iostream>
+	<string>
+	"Data.h"
+	"Adres.h"
+
+1458310206 source:c:\users\pawel\documents\c++\ks_telef\ks_telef\osoba.cpp
+	<iostream>
+	<string>
+	"Data.h"
+	"Adres.h"
+	"Osoba.h"
+
+1458311099 source:c:\users\pawel\documents\c++\ksiazka_telefoniczna\adres.cpp
+	<iostream>
+	"Adres.h"
+
+1458311099 c:\users\pawel\documents\c++\ksiazka_telefoniczna\adres.h
+
+1458311556 source:c:\users\pawel\documents\c++\ksiazka_telefoniczna\data.cpp
+	<iostream>
+	"Data.h"
+
+1458310110 c:\users\pawel\documents\c++\ksiazka_telefoniczna\data.h
+
+1458311556 source:c:\users\pawel\documents\c++\ksiazka_telefoniczna\osoba.cpp
+	<iostream>
+	<string>
+	"Data.h"
+	"Adres.h"
+	"Osoba.h"
+
+1458311192 c:\users\pawel\documents\c++\ksiazka_telefoniczna\osoba.h
+	<iostream>
+	<string>
+	"Data.h"
+	"Adres.h"
+
