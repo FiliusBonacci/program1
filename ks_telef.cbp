@@ -38,6 +38,8 @@
 		<Unit filename="Data.h" />
 		<Unit filename="Osoba.cpp" />
 		<Unit filename="Osoba.h" />
+		<Unit filename="Praca.cpp" />
+		<Unit filename="Praca.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

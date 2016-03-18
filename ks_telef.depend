@@ -42,16 +42,46 @@
 
 1458310110 c:\users\pawel\documents\c++\ksiazka_telefoniczna\data.h
 
-1458311556 source:c:\users\pawel\documents\c++\ksiazka_telefoniczna\osoba.cpp
+1458323018 source:c:\users\pawel\documents\c++\ksiazka_telefoniczna\osoba.cpp
 	<iostream>
 	<string>
 	"Data.h"
 	"Adres.h"
 	"Osoba.h"
 
-1458311192 c:\users\pawel\documents\c++\ksiazka_telefoniczna\osoba.h
+1458322726 c:\users\pawel\documents\c++\ksiazka_telefoniczna\osoba.h
 	<iostream>
 	<string>
 	"Data.h"
 	"Adres.h"
+	"Praca.h"
+
+1458321017 source:c:\users\pawel\documents\c++\ksiazka_telefoniczna\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Adres.h"
+	"Data.h"
+	"Osoba.h"
+	"Praca.h"
+
+1458313997 source:c:\users\pawel\documents\c++\ksiazka_telefoniczna\firma.cpp
+	<iostream>
+	"Adres.h"
+	"Data.h"
+	"Firma.h"
+
+1458313593 c:\users\pawel\documents\c++\ksiazka_telefoniczna\firma.h
+	"Adres.h"
+	"Data.h"
+
+1458320246 source:c:\users\pawel\documents\c++\ksiazka_telefoniczna\praca.cpp
+	<iostream>
+	"Adres.h"
+	"Data.h"
+	"Praca.h"
+
+1458320247 c:\users\pawel\documents\c++\ksiazka_telefoniczna\praca.h
+	"Adres.h"
+	"Data.h"
 
